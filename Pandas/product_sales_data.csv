@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Price,UnitsSold,Stock,LaunchDate
+201,Laptop,Electronics,70000,120,30,2021-01-15
+202,Mobile,Electronics,30000,300,100,2020-09-01
+203,Tablet,Electronics,25000,150,60,2022-03-10
+204,Monitor,Electronics,15000,80,40,2019-11-20
+205,Keyboard,Accessories,2000,200,150,2021-06-05
+206,Mouse,Accessories,1000,250,200,2020-01-25
